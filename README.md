@@ -1,5 +1,5 @@
 # 🛡️ AI PDF Cybersecurity Summarizer (Local LLM)
-An **AI-powered cybersecurity document summarization tool** that analyzes multiple client PDF reports, correlates findings, and automatically generates a **professional, presentation-ready PowerPoint (PPT)** — all **locally**, without sending data to the cloud.
+An **AI-powered cybersecurity document summarization tool** that analyzes multiple client PDF reports, correlates findings, and automatically generates a **professional, presentation-ready PowerPoint (PPT)** — all **locally**, without sending data to the cloud. 
 Built using Mistral LLM via Ollama, this project is ideal for SOC analysts, SIEM engineers, and cybersecurity teams who handle sensitive client data.
 
 ## 🚀 Key Features
